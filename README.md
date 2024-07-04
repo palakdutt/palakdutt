@@ -1,3 +1,8 @@
+![image](https://github.com/palakdutt/palakdutt/assets/173567881/10e0cffa-7526-4e2e-8ae2-b00c75016965)
+
+<img src="https://s3.ezgif.com/tmp/ezgif-3-0ca4403fb4.gif" width="256" />
+
+
 ### Hi there! 👋 I'm Palak Dut
 
 🎓 **B.Com Student @ Delhi University**  
@@ -30,14 +35,25 @@
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palak._.dutt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/palak-dutt) 
 
----
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power BI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Feasiest-way-show-company-its-logos-power-bi-samarth-shrivastava&psig=AOvVaw23q1LTGNyNGPuF-N7td9E_&ust=1720195996936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCW6s7jjYcDFQAAAAAdAAAAABAE)
 
-![Palak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=palakdutt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=palakdutt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palakdutt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=palakdutt&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=palakdutt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 -->
