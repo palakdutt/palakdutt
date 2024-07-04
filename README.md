@@ -1,16 +1,43 @@
-## Hi there 👋
+### Hi there! 👋 I'm Palak Dut
 
-<!--
-**palakdutt/palakdutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Com Student @ Delhi University**  
+📊 **Finance Enthusiast | Data Science Explorer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 About Me
+- 🏫 Pursuing a B.Com degree at Delhi University
+- 📈 Passionate about Finance, Mergers & Acquisitions, and Data Science
+- 💡 Always eager to learn and take on new challenges
+
+### 💼 Experience
+- 📚 Solid foundation in accountancy, mathematics, business environment, and statistics
+- 🤝 Active member of Vitt 'N' Nivesh, the finance and investment society
+
+### 🚀 Projects & Interests
+- 💻 Exploring the intersections of finance and technology
+- 🔍 Interested in financial analysis, data-driven decision-making, and innovative projects
+
+### 🌴 Hobbies
+- 📚 Reading
+- 🎨 Drawing
+- 🌍 Traveling
+- ✍️ Poetry
+- 🤝 Volunteering
+- ⚽ Sports
+- 🗣️ Learning Languages
+- 🌿 Gardening
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Email](mailto:your.email@example.com)
+
+---
+
+![Palak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 -->
