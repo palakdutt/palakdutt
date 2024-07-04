@@ -1,6 +1,6 @@
 ![image](https://github.com/palakdutt/palakdutt/assets/173567881/10e0cffa-7526-4e2e-8ae2-b00c75016965)
 
-<img src="https://s3.ezgif.com/tmp/ezgif-3-0ca4403fb4.gif" width="256" />
+<img src="https://s3.ezgif.com/tmp/ezgif-3-0ca4403fb4.gif" width="556" />
 
 
 ### Hi there! 👋 I'm Palak Dut
