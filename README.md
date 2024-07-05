@@ -1,12 +1,11 @@
-
-![Alt Text](https://media.licdn.com/dms/image/D5616AQGRUCL9gZjPTQ/profile-displaybackgroundimage-shrink_350_1400/0/1720164007170?e=1725494400&v=beta&t=PvjQfGKDI0GEh6o3LgFOCZ0aFX1e4jUFW0LGtunovEg)
-
-### Hi there! 👋 I'm Palak Dut
-
+### Hi there! 👋 I'm Palak Dutt
 🎓 **B.Com Student @ Delhi University**  
 📊 **Finance Enthusiast | Data Science Explorer**  
 
----
+
+![Alt Text](https://media.licdn.com/dms/image/D5616AQGRUCL9gZjPTQ/profile-displaybackgroundimage-shrink_350_1400/0/1720164007170?e=1725494400&v=beta&t=PvjQfGKDI0GEh6o3LgFOCZ0aFX1e4jUFW0LGtunovEg)
+
+
 
 ### 🌟 About Me
 - 🏫 Pursuing a B.Com degree at Delhi University
