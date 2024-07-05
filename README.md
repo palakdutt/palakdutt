@@ -1,6 +1,6 @@
 ![image](https://github.com/palakdutt/palakdutt/assets/173567881/10e0cffa-7526-4e2e-8ae2-b00c75016965)
 
-<img src="[https://s3.ezgif.com/tmp/ezgif-3-0ca4403fb4.gif](https://media.licdn.com/dms/image/D5616AQGRUCL9gZjPTQ/profile-displaybackgroundimage-shrink_350_1400/0/1720164007170?e=1725494400&v=beta&t=PvjQfGKDI0GEh6o3LgFOCZ0aFX1e4jUFW0LGtunovEg)" width="256" />
+<img src="(https://media.licdn.com/dms/image/D5616AQGRUCL9gZjPTQ/profile-displaybackgroundimage-shrink_350_1400/0/1720164007170?e=1725494400&v=beta&t=PvjQfGKDI0GEh6o3LgFOCZ0aFX1e4jUFW0LGtunovEg)" width="256" />
 
 
 ### Hi there! 👋 I'm Palak Dut
