@@ -1,4 +1,4 @@
-##### Hi there! 👋 I'm Palak Dutt
+## Hi there! 👋 I'm Palak Dutt
 🎓 **B.Com Student @ Delhi University**  
 📊 **Finance Enthusiast | Data Science Explorer**  
 
